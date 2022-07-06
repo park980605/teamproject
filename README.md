@@ -41,8 +41,10 @@
 #### 일반 회원가입
 ![회원가입](https://user-images.githubusercontent.com/104838354/177592260-2cdfce4a-647d-4365-ace2-ed1c7f0d4f7c.gif)
 
+#### 회원가입 성공 후 메일 인증 
 ![회원가입메일인증](https://user-images.githubusercontent.com/104838354/177592427-db0d1eda-5cd9-4369-8916-c63499bc7407.gif)
 
+#### 메일 인증 후 로그인
 ![회원가입후로그인](https://user-images.githubusercontent.com/104838354/177592462-5da17504-a636-4f61-9b19-c987f8fecb3d.gif)
 
 * 구현 기능 설명
@@ -54,8 +56,13 @@
   
   
 ### 2. 로그인
+#### 네이버 로그인
 ![네이버로그인](https://user-images.githubusercontent.com/104838354/177592645-c6302d58-4412-45d2-9729-2278acc0d906.gif)
 
+#### 카카오 로그인
 ![로그인](https://user-images.githubusercontent.com/104838354/177592682-fcf1665e-ef49-40b4-bf44-00d66188c34f.gif)
+
+### 3. 아이디, 비밀번호 찾기
+#### 아이디 찾기 
 
 
