@@ -33,6 +33,10 @@
 ## 상품과 회원을 기준으로 DB 설계
 ![ERD2](https://user-images.githubusercontent.com/104838354/177591389-3e6eb6e4-ed27-4a01-a8c2-156aa6d98329.png)
 
+📝구현 기능
+=======
+## 회원가입 및 로그인
+
 
 ### 1. 회원가입
 <img alt="회원가입" src="https://user-images.githubusercontent.com/104838354/177475923-091936fe-7025-41a3-92f3-252e864fe380.png"><br>
