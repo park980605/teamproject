@@ -31,7 +31,8 @@
 📝ERD
 =======
 ## 상품과 회원을 기준으로 DB 설계
-![ERD](https://user-images.githubusercontent.com/104838354/177590669-cd0c474f-5ddf-471d-b8fa-b4e261952770.png)
+![ERD2](https://user-images.githubusercontent.com/104838354/177591389-3e6eb6e4-ed27-4a01-a8c2-156aa6d98329.png)
+
 
 ### 1. 회원가입
 <img alt="회원가입" src="https://user-images.githubusercontent.com/104838354/177475923-091936fe-7025-41a3-92f3-252e864fe380.png"><br>
