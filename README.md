@@ -36,12 +36,17 @@
 📝구현 기능
 =======
 ## 회원가입 및 로그인
+====================
+### 1. 회원가입 
+![회원가입](https://user-images.githubusercontent.com/104838354/177592260-2cdfce4a-647d-4365-ace2-ed1c7f0d4f7c.gif)
 
+![회원가입메일인증](https://user-images.githubusercontent.com/104838354/177592427-db0d1eda-5cd9-4369-8916-c63499bc7407.gif)
 
-### 1. 회원가입
-<img alt="회원가입" src="https://user-images.githubusercontent.com/104838354/177475923-091936fe-7025-41a3-92f3-252e864fe380.png"><br>
-<img alt="회원가입 성공" src="https://user-images.githubusercontent.com/104838354/177476226-5c68518f-321d-495e-aff9-9a5e7458ddd9.png"><br>
+![회원가입후로그인](https://user-images.githubusercontent.com/104838354/177592462-5da17504-a636-4f61-9b19-c987f8fecb3d.gif)
 
 ### 2. 로그인
-<img alt="로그인" src="https://user-images.githubusercontent.com/104838354/177476400-ac8f14d9-f436-46a4-90d3-cfaa15769e56.png"><br>
-<img alt="로그인 성공" src="https://user-images.githubusercontent.com/104838354/177476446-1890c4ca-1abf-458b-b95c-427f6bf7f220.png"><br>
+![네이버로그인](https://user-images.githubusercontent.com/104838354/177592645-c6302d58-4412-45d2-9729-2278acc0d906.gif)
+
+![로그인](https://user-images.githubusercontent.com/104838354/177592682-fcf1665e-ef49-40b4-bf44-00d66188c34f.gif)
+
+
