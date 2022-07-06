@@ -64,11 +64,13 @@
 
 ### 3. 아이디, 비밀번호 찾기
 #### 아이디 찾기
+#### SMS 인증 후 아이디 찾기 완료
 ![아이디찾기](https://user-images.githubusercontent.com/104838354/177594714-ddabc6a3-0c1b-44f3-a26d-bd5f2455fed3.gif)
 
 ![아이디찾기완료](https://user-images.githubusercontent.com/104838354/177594770-19b5affe-248b-43a8-8132-c46294dc2ad2.gif)
 
 #### 비밀번호 찾기
+#### SMS , 이메일 인증 후 비밀번호 변경
 ![비밀번호찾기](https://user-images.githubusercontent.com/104838354/177594860-174e4150-2509-4d32-8d7f-6479b3cfdb15.gif)
 
 ![비밀번호찾기메일인증](https://user-images.githubusercontent.com/104838354/177594906-ce2e9588-0990-429a-9990-7a009de4dc9d.gif)
@@ -86,3 +88,11 @@
   + 비밀번호 찾기를 위한 SMS, 이메일 
 
 ---------------------------------------
+## 마이페이지 구현
+### 마이페이지 조회 및 회원정보 수정
+
+### 장바구니 수량 변경
+
+### 장바구니 삭제
+
+### 장바구니에서 
