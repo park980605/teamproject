@@ -63,6 +63,26 @@
 ![로그인](https://user-images.githubusercontent.com/104838354/177592682-fcf1665e-ef49-40b4-bf44-00d66188c34f.gif)
 
 ### 3. 아이디, 비밀번호 찾기
-#### 아이디 찾기 
+#### 아이디 찾기
+![아이디찾기](https://user-images.githubusercontent.com/104838354/177594714-ddabc6a3-0c1b-44f3-a26d-bd5f2455fed3.gif)
 
+![아이디찾기완료](https://user-images.githubusercontent.com/104838354/177594770-19b5affe-248b-43a8-8132-c46294dc2ad2.gif)
 
+#### 비밀번호 찾기
+![비밀번호찾기](https://user-images.githubusercontent.com/104838354/177594860-174e4150-2509-4d32-8d7f-6479b3cfdb15.gif)
+
+![비밀번호찾기메일인증](https://user-images.githubusercontent.com/104838354/177594906-ce2e9588-0990-429a-9990-7a009de4dc9d.gif)
+
+#### 비밀번호 변경
+![비밀번호변경](https://user-images.githubusercontent.com/104838354/177595010-ef754d10-2593-46fc-a289-3b59829f4607.gif)
+
+![비밀번호변경후로그인](https://user-images.githubusercontent.com/104838354/177595063-5835a9b7-c00b-40d3-aadd-16bacd426ccb.gif)
+
+* 구현 기능 설명
+  + 일반 로그인
+  + 카카오 로그인
+  + 네이버 로그인
+  + 아이디 찾기를 위한 SMS 인증
+  + 비밀번호 찾기를 위한 SMS, 이메일 
+
+=======
