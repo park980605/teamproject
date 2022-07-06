@@ -95,6 +95,7 @@
 
 ### 장바구니
 #### 장바구니 수량 변경
+![장바구니수량](https://user-images.githubusercontent.com/104838354/177597693-69438545-3bae-4e8f-be89-ef64372f2e06.gif)
 
 #### 장바구니 삭제
-
+![장바구니삭제](https://user-images.githubusercontent.com/104838354/177597676-b4fd72ae-8a0d-447f-adaf-01b78617acfd.gif)
